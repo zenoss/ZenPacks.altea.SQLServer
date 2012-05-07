@@ -17,7 +17,7 @@
 NAME = 'ZenPacks.altea.SQLServer'
 VERSION = '1.2'
 AUTHOR = 'Fabio Paracchini'
-LICENSE = ''
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.altea']
 PACKAGES = ['ZenPacks', 'ZenPacks.altea', 'ZenPacks.altea.SQLServer']
 INSTALL_REQUIRES = ['ZenPacks.community.Perfmon>=1.2']
